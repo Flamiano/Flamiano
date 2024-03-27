@@ -2,7 +2,7 @@
 - 👀 I’m interested in basketball, mobile game, coding
 - 🌱 I’m currently learning how to use html, css, javascript, java, databases
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me click my link fb
+- 📫 How to reach me? click my link on fb
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Coding
 
