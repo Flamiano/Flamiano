@@ -1,7 +1,6 @@
 - 👋 Hi, I’m John Roel Flamiano
 - 👀 I’m interested in basketball, mobile game, coding
-- 🌱 I’m currently learning how to use html, css, javascript, java, and databases
-- 💞️ I’m in relationship
+- 🌱 I’m currently learning how to use MERN stack
 - 😄 Pronouns: He/Him
 - ⚡ Code With Me ^^
 
