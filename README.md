@@ -7,12 +7,20 @@ I am an Information Technology student at Bestlink College of the Philippines. I
 ### My Tech Stack
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,kotlin,react,nextjs,tailwind,bootstrap,laravel,threejs,postgres,mysql,supabase,git,github,vercel,netlify,nodejs,vscode,androidstudio" height="45" alt="tech stack" />
-  <img src="https://cdn.simpleicons.org/composer/white" height="40" width="40" alt="composer" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,kotlin,react,nextjs,tailwind,bootstrap,laravel,threejs,postgres,mysql,supabase,git,github,vercel,netlify,nodejs,vscode,androidstudio" height="60" alt="tech stack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="60" alt="composer logo" />
 </div>
 
 ---
 
+### Featured Projects 🚀
+
+* **adventours** - A travel and adventure platform built with PHP.
+* **viavanta-administrative** - Admin dashboard system using TypeScript.
+* **lost_and_found** - A community tool for tracking lost items using PHP.
+* **pikta** - Photography or image-focused web application.
+
+---
 
 ### Contribution Graph
 
