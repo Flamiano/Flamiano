@@ -6,8 +6,34 @@ I am an Information Technology student at Bestlink College of the Philippines. I
 
 ### My Tech Stack
 
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,kotlin,react,nextjs,tailwind,bootstrap,laravel,threejs,postgres,mysql,supabase,git,github,vercel,netlify,nodejs,vscode,androidstudio,composer-original.svg" height="60" alt="tech stack" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html" />
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="css" />
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript" />
+  <img src="https://skillicons.dev/icons?i=php" height="55" alt="php" />
+  <img src="https://skillicons.dev/icons?i=java" height="55" alt="java" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="55" alt="kotlin" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="nextjs" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwind" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="55" alt="bootstrap" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="55" alt="laravel" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="55" alt="threejs" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="55" alt="supabase" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git" />
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="github" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="55" alt="vercel" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="55" alt="netlify" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="nodejs" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="vscode" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="55" alt="androidstudio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="50" alt="composer" />
 </div>
 
 ---
