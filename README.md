@@ -14,7 +14,6 @@ I am an Information Technology student at Bestlink College of the Philippines. I
   <img src="https://skillicons.dev/icons?i=php" height="55" alt="php" />
   <img src="https://skillicons.dev/icons?i=java" height="55" alt="java" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="55" alt="kotlin" />
-  <br><br>
   <img src="https://skillicons.dev/icons?i=react" height="55" alt="react" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="nextjs" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwind" />
