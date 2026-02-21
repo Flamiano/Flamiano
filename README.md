@@ -12,15 +12,18 @@ I am an Information Technology student at Bestlink College of the Philippines. I
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,laravel,threejs" height="45" alt="frameworks" />
   <br>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,git,github,vercel,netlify" height="45" alt="tools" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,vscode,androidstudio" height="45" alt="development tools" />
+  <img src="https://cdn.simpleicons.org/composer/white" height="40" width="40" alt="composer" />
 </div>
 
 ---
 
-### GitHub Stats
+### GitHub Overview
 
 <div>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dracula" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=YOUR_GITHUB_USERNAME&theme=dracula&column=-1&row=1" height="150" alt="trophy graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Flamiano&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" height="170" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flamiano&layout=compact&theme=dracula&border_radius=10" height="170" alt="languages card" />
 </div>
 
 ---
